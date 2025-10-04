@@ -10,7 +10,6 @@ This is my first GitHub repository created as part of learning Git and GitHub fu
 ## Technologies Used
 - Git
 - GitHub
-- Markdown
 
 ## Getting Started
 Clone this repository to your local machine:
