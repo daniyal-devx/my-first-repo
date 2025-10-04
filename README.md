@@ -16,5 +16,9 @@ Clone this repository to your local machine:
 ```bash
 
 git clone https://github.com/your-username/my-first-repo.git
+<<<<<<< HEAD
 
 "This change was made in main-branch."
+=======
+This is the change from CONFLICT BRANCH.
+>>>>>>> conflict-branch
